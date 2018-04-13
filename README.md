@@ -2,6 +2,8 @@
 
 In Order to call the socket from C++ we can use this code
 
+//Dependencies
+
 #include<iostream>
  
 #include<arpa/inet.h>
@@ -18,6 +20,9 @@ In Order to call the socket from C++ we can use this code
 
 #include<stdlib.h>
 
+
+
+//From a regular function call this code
 
  int sockfd;
  
